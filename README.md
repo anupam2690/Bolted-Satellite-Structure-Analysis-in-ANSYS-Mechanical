@@ -1,0 +1,1 @@
+# Bolted-Satellite-Structure-Analysis-in-ANSYS-Mechanical
